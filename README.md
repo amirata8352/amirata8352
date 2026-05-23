@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm AmirAta!
 
-<!--
-**amirata8352/amirata8352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Electrical Engineering Student | Control Systems 
+Welcome to my GitHub profile! I am an undergraduate electrical engineering student focusing on **Control Systems**. I love bridging the gap between hardware and software, and I'm currently expanding my skillset by mastering **Python** and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 **Tech Interests:** Control Theory, Automation, Industrial Programming, and System Dynamics.
+- 🌙 **Coding Style:** Deep-focus night owl. Most of my commits happen under the stars!
+- ⚡ **Fun Fact:** When I'm not tuning control loops or writing Python scripts, I enjoy tracking global markets and keeping up with my favorite anime series.
+
+---
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python (Active Learning), C (Foundational)
+- **Engineering Tools:** MATLAB & Simulink (Control Systems & Signals)
+- **Platforms:** GitHub, VS Code
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirata8352&show_icons=true&theme=tokyonight&count_private=true" alt="AmirAta's GitHub Stats" />
+</p>
