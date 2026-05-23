@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I am an undergraduate electrical engineering stude
 
 ## 🚀 About Me
 - 💻 **Tech Interests:** Control Theory, Automation, Industrial Programming, and System Dynamics.
-- 🌙 **Coding Style:** Deep-focus night owl. Most of my commits happen under the stars!
-- ⚡ **Fun Fact:** When I'm not tuning control loops or writing Python scripts, I enjoy tracking global markets and keeping up with my favorite anime series.
+- 🌙 **Coding Style:** night owl. Most of my commits happen under the stars!
 
 ---
 
