@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AmirAta!
+#  Hi, I'm AmirAta!
 
 ### 🎓 Electrical Engineering Student | Control Systems 
 Welcome to my GitHub profile! I am an undergraduate electrical engineering student focusing on **Control Systems**. I love bridging the gap between hardware and software, and I'm currently expanding my skillset by mastering **Python** and automation.
