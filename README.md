@@ -20,5 +20,5 @@ Welcome to my GitHub profile! I am an undergraduate electrical engineering stude
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAta8352&theme=tokyonight" alt="AmirAta's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirAta8352&theme=tokyonight&bg_color=00000000" alt="AmirAta's GitHub Activity Graph" />
 </p>
